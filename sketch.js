@@ -8,7 +8,7 @@ var backgroundImg;
 var platform;
 
 function preload() {
-    backgroundImg = loadImage("sprites/bg.png");
+    backgroundImg = loadImage("Sprites/bg.png");
 }
 
 function setup(){
